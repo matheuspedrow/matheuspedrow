@@ -1,6 +1,5 @@
 ## Oi, eu sou o Matheus!
-- 👀 Estou atualmente aberto a propostas e oportunidades de trabalho.
-- 🌱 Estudando Javascript, react
+Já fui advogado, gestor de projetos e comandava uma equipe com mais de 20 funcionários. Atualmente estou fazendo a migração de carreira e sou estudante de análise e desenvolvimento de sistemas, buscando espaço na área tech como Programador Jr, com foco em fullstack.
 
 <a href="https://github.com/matheuspedrow">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuspedrow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
