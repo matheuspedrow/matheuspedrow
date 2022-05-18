@@ -2,8 +2,8 @@
 Formado em Direito, gestor de projetos e comandava uma equipe com mais de 20 funcionários. Atualmente estou fazendo a transição de carreira e sou estudante de análise e desenvolvimento de sistemas, buscando espaço na área tech como Desenvolvedor Jr.
 
 <a href="https://github.com/matheuspedrow">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuspedrow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="[https://github-readme-stats.vercel.app/api?username=matheuspedrow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=matheuspedrow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E)"/>
+  <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&layout=compact&langs_count=7&theme=dracula)"/>
 </div>
 
 <div style="display: inline_block"><br>
