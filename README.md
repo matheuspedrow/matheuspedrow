@@ -3,6 +3,7 @@ Formado em Direito, gestor de projetos e comandava uma equipe com mais de 20 fun
 
 <a href="https://github.com/matheuspedrow">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true&layout=compact)"/>
 </div>
 
