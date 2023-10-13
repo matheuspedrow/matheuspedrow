@@ -1,5 +1,5 @@
 ## Oi, eu sou o Matheus!
-resolvo problemas desenvolvendo soluções criativas nos mais diversos nichos. Formado em Análise e Desenvolvimento de Sistemas e Direito tenho uma visão ampla de negócios e tecnologia. 
+Resolvo problemas desenvolvendo soluções criativas nos mais diversos nichos. Formado em Análise e Desenvolvimento de Sistemas e Direito tenho uma visão ampla de negócios e tecnologia. 
 
 <a href="https://github.com/matheuspedrow">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
