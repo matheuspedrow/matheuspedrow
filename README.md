@@ -1,5 +1,9 @@
 ## Oi, eu sou o Matheus!
-Resolvo problemas desenvolvendo soluções criativas nos mais diversos nichos. Formado em Análise e Desenvolvimento de Sistemas e Direito tenho uma visão ampla de negócios e tecnologia. 
+Desenvolvedor de software apaixonado por criar soluções inovadoras e ágeis no mundo da tecnologia. Com um forte conjunto de habilidades que abrange JavaScript (React e React Native), TypeScript, CSS (incluindo a criação de componentes, Bootstrap e Antd), HTML5 e Git, estou comprometido em fornecer produtos web de alta qualidade.
+
+Minha jornada no desenvolvimento não para por aí; também sou experiente em tecnologias como AdonisJS, NodeJS, NextJS e MySQL, o que me permite criar aplicativos robustos e escaláveis.
+
+Em busca constante de aprimoramento, estou sempre explorando novas tendências e ferramentas para aprimorar meu conjunto de habilidades e entregar soluções de alto desempenho. Se você procura um profissional apaixonado por desenvolvimento de software e dedicado a criar produtos excepcionais, estou à disposição para colaborar em projetos desafiadores. Vamos criar algo incrível juntos!
 
 <a href="https://github.com/matheuspedrow">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
