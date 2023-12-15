@@ -4,11 +4,21 @@ Olá, eu sou o Matheus, um desenvolvedor de software dedicado a criar soluções
 
 ## Habilidades Principais
 
-- **Frontend:** JavaScript (React e React Native), TypeScript, HTML5, CSS (incluindo Bootstrap e Antd)
-- **Backend:** NodeJS, AdonisJS
-- **Banco de Dados:** MySQL
-- **Outras Linguagens:** Python
+- **Frontend:** 
+  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) JavaScript (React e React Native)
+  - ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg) TypeScript
+  - ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
+  - ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS (Bootstrap e Antd)
 
+- **Backend:** 
+  - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) NodeJS
+  - ![AdonisJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg) AdonisJS
+
+- **Banco de Dados:** 
+  - ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL
+
+- **Outras Linguagens:** 
+  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
 
 ## GitHub Stats
 
