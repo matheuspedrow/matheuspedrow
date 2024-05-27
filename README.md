@@ -22,8 +22,8 @@ Olá, eu sou o Matheus, um desenvolvedor de software dedicado a criar soluções
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true" style="height: 195px;" />
 
 ## Fale Comigo
 
