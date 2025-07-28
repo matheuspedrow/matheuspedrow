@@ -1,37 +1,7 @@
-# 🚀 Desenvolvedor de Software Apaixonado por Inovação 🚀
+Olá! Sou Matheus, desenvolvedor de software apaixonado por criar soluções inovadoras e escaláveis no mundo da tecnologia. Com expertise em React, React Native, TypeScript, AdonisJS e Node.js, atuo no desenvolvimento de plataformas robustas e responsivas, integrando WebSockets, sistemas de pagamento e automação de processos.
 
-Olá, eu sou o Matheus, um desenvolvedor de software dedicado a criar soluções inovadoras e ágeis no mundo da tecnologia.
+Atualmente, contribuo para o desenvolvimento de softwares de gerenciamento de OLTs, plataformas de venda de ingressos e ferramentas para arquitetos e engenheiros, aplicando boas práticas de desenvolvimento e garantindo alta performance.
 
-## Habilidades Principais
+Além disso, sou diretor de uma produtora de eventos universitários, onde gerencio contratos, marketing, contabilidade e networking, sempre buscando inovação e eficiência na execução dos projetos.
 
-- **Frontend:** 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20"/> JavaScript (React e React Native)
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="20" height="20"/> TypeScript
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML5
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS (Bootstrap e Antd)
-
-- **Backend:** 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> NodeJS
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="20" height="20"/> AdonisJS
-
-- **Banco de Dados:** 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
-
-- **Outras Linguagens:** 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&theme=dracula&show_icons=true&hide_border=true" style="height: 195px;" />
-
-## Fale Comigo
-
-- [Instagram](https://instagram.com/matheuspedrow)
-- [Email](mailto:matheuspedrow@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/matheusrebeschini)
-- [WhatsApp](https://api.whatsapp.com/send?phone=5551994249593&text=Oi,%20vi%20seu%20perfil%20no%20Github...)
-
-## Contribuições no GitHub
-
-![Snake Animation](https://github.com/matheuspedrow/matheuspedrow/blob/output/github-contribution-grid-snake.svg)
+Estou em constante aprendizado e sempre aberto a novos desafios! Vamos construir algo incrível juntos? 🚀
