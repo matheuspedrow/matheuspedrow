@@ -1,7 +1,30 @@
-Olá! Sou Matheus, desenvolvedor de software apaixonado por criar soluções inovadoras e escaláveis no mundo da tecnologia. Com expertise em React, React Native, TypeScript, AdonisJS e Node.js, atuo no desenvolvimento de plataformas robustas e responsivas, integrando WebSockets, sistemas de pagamento e automação de processos.
+# 👋 Olá, eu sou o Matheus Pedro  
 
-Atualmente, contribuo para o desenvolvimento de softwares de gerenciamento de OLTs, plataformas de venda de ingressos e ferramentas para arquitetos e engenheiros, aplicando boas práticas de desenvolvimento e garantindo alta performance.
+Sou desenvolvedor apaixonado por tecnologia, sempre explorando novas soluções em software e automação. 🚀  
 
-Além disso, sou diretor de uma produtora de eventos universitários, onde gerencio contratos, marketing, contabilidade e networking, sempre buscando inovação e eficiência na execução dos projetos.
+---
 
-Estou em constante aprendizado e sempre aberto a novos desafios! Vamos construir algo incrível juntos? 🚀
+## 📊 GitHub Stats  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspedrow&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/matheuspedrow)
+
+---
+
+## 🧠 Linguagens Mais Utilizadas  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/matheuspedrow)
+
+---
+
+## 🌱 Sobre mim  
+
+- 🔭 Atualmente trabalhando em projetos de automação, redes e aplicações web  
+- 🌍 Aberto a oportunidades de colaboração em projetos open source  
+- ⚡ Curiosidade: adoro aprender novas stacks e compartilhar conhecimento  
+
+---
+
+## 📫 Como me encontrar  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheuspedrow/)  
+- 📧 matheuspedrow@gmail.com  
