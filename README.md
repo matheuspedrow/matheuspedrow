@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Pedro  
 
 Sou desenvolvedor de software e professor de TI apaixonado por tecnologia, automação e desenvolvimento web moderno. 🚀  
-Tenho experiência construindo sistemas escaláveis e eficientes, tanto no frontend quanto no backend, e também ensinando programação de forma prática e objetiva.  
+Tenho experiência construindo sistemas escaláveis e eficientes, tanto no frontend quanto no backend, e também atuo como professor no Senac-RS ensinando programação de forma prática e objetiva.  
 
 ---
 
@@ -33,14 +33,6 @@ Tenho experiência construindo sistemas escaláveis e eficientes, tanto no front
 ## 🧠 Linguagens Mais Utilizadas  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/matheuspedrow)
-
----
-
-## 🌱 Sobre mim  
-
-- Apaixonado por **ensinar e compartilhar conhecimento**  
-- Sempre buscando **melhorar eficiência e experiência do usuário** nos softwares que desenvolvo  
-- Curioso por **novas tecnologias e stacks modernas**, sempre explorando novas soluções  
 
 ---
 
