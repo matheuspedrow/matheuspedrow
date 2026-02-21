@@ -24,18 +24,6 @@ Tenho experiência construindo sistemas escaláveis e eficientes, tanto no front
 
 ---
 
-## 📊 GitHub Stats  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspedrow&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/matheuspedrow)
-
----
-
-## 🧠 Linguagens Mais Utilizadas  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrow&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/matheuspedrow)
-
----
-
 ## 📫 Como me encontrar  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheuspedrow/)  
