@@ -1,29 +1,29 @@
-# 👋 Olá, eu sou o Matheus Pedro  
+# 👋 Hello, I'm Matheus Pedro  
 
-Sou desenvolvedor de software e professor de TI apaixonado por tecnologia, automação e desenvolvimento web moderno. 🚀  
-Tenho experiência construindo sistemas escaláveis e eficientes, tanto no frontend quanto no backend, e também atuo como professor no Senac-RS ensinando programação de forma prática e objetiva.  
-
----
-
-## 💻 Sobre meu trabalho  
-
-- Desenvolvimento de **software de gerenciamento de redes** com foco em automação e otimização  
-- Criação de interfaces **dinâmicas e responsivas** utilizando **React** e **WebSockets** para comunicação em tempo real  
-- Backend robusto com **Node.js** e **AdonisJS**, garantindo performance, segurança e escalabilidade  
-- Desenvolvimento de **bibliotecas próprias** para integração e padronização de sistemas  
-- Aplicação de **testes unitários** e boas práticas de desenvolvimento para sistemas confiáveis  
+I'm a software developer and IT professor passionate about technology, automation and modern web development. 🚀  
+I have experience building scalable and efficient systems, both on the frontend and backend, and I also work as a professor at Senac-RS teaching programming in a practical and objective way.  
 
 ---
 
-## 🛠 Tecnologias & Skills  
+## 💻 About my work  
+
+- Development of **network management software** with a focus on automation and optimization  
+- Creation of **dynamic and responsive** interfaces using **React** and **WebSockets** for real-time communication  
+- Robust backend with **Node.js** and **AdonisJS**, ensuring performance, security and scalability  
+- Development of **own libraries** for system integration and standardization  
+- Application of **unit tests** and good development practices for reliable systems  
+
+---
+
+## 🛠 Technologies & Skills  
 
 **Frontend:** React, HTML5, CSS3, JavaScript, WebSockets  
-**Backend:** Node.js, AdonisJS, APIs REST  
-**Banco de dados:** PostgreSQL, MySQL  
-**Outras:** Automação, Parsing de dados, Testes unitários, Boas práticas de desenvolvimento  
+**Backend:** Node.js, AdonisJS, REST APIs  
+**Database:** PostgreSQL, MySQL  
+**Others:** Automation, Data parsing, Unit testing, Good development practices  
 
 ---
 
-## 📫 Como me encontrar  
+## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheuspedrow/)  
