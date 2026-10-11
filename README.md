@@ -1,29 +1,47 @@
-# 👋 Hello, I'm Matheus Pedro  
+# 👋 Hi, I'm Matheus Pedro
 
-I'm a software developer and IT professor passionate about technology, automation and modern web development. 🚀  
-I have experience building scalable and efficient systems, both on the frontend and backend, and I also work as a professor at Senac-RS teaching programming in a practical and objective way.  
+**Senior Full Stack Developer · AI & Automation · IT Professor**
 
----
+I build and maintain web applications, APIs and automations for real businesses. I'm based in Porto Alegre, Brazil, work remotely, and also teach programming at **Senac-RS**.
 
-## 💻 About my work  
+I'm comfortable joining an existing codebase, understanding its architecture, and shipping changes that keep it simple, tested and maintainable.
 
-- Development of **network management software** with a focus on automation and optimization  
-- Creation of **dynamic and responsive** interfaces using **React** and **WebSockets** for real-time communication  
-- Robust backend with **Node.js** and **AdonisJS**, ensuring performance, security and scalability  
-- Development of **own libraries** for system integration and standardization  
-- Application of **unit tests** and good development practices for reliable systems  
+> 🔒 **A note on my repositories:** most of my work is production software that belongs to my company and its customers, so those repositories are private. I'm happy to walk through architecture, decisions and trade-offs in an interview or a paid trial task.
 
 ---
 
-## 🛠 Technologies & Skills  
+## 🧭 What I do
 
-**Frontend:** React, HTML5, CSS3, JavaScript, WebSockets  
-**Backend:** Node.js, AdonisJS, REST APIs  
-**Database:** PostgreSQL, MySQL  
-**Others:** Automation, Data parsing, Unit testing, Good development practices  
+- **Web apps & APIs:** SaaS platforms, business-critical REST APIs, real-time interfaces (React + WebSockets)
+- **AI integrations:** AI-powered customer support chatbots and LLM-assisted workflows, with human review where it matters
+- **WhatsApp integrations:** official WhatsApp Business Platform (Meta), plus third-party WhatsApp APIs, webhooks and message flows
+- **Automation:** Python services and scripts, data parsing, browser automation (including a Chrome extension that auto-fills forms)
+- **Network management software:** automation- and optimization-focused tools for internet providers
+- **Deployment & operations:** Docker / Docker Compose, Linux servers, AWS, Git-based workflows
 
 ---
 
-## 📫 Contact
+## 🛠 Technologies
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheuspedrow/)  
+| Area | Stack |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML5, CSS3, WebSockets |
+| **Backend** | Node.js, AdonisJS, Python, REST APIs, webhooks |
+| **Databases** | PostgreSQL, MySQL |
+| **Infra & tools** | Docker, Docker Compose, AWS, Linux, Git |
+| **AI** | Claude Code and other AI coding agents, LLM APIs, AI chatbots |
+| **Practices** | Unit testing, code review, documentation, secrets kept out of code |
+
+---
+
+## 🤖 How I work with AI
+
+I use AI coding tools (such as Claude Code) daily to speed up development, research, debugging and refactoring. I always review and test what they generate for correctness, security and consistency with the project's architecture. AI is most useful when paired with solid engineering judgment.
+
+---
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheuspedrow/)
+
+I'm open to long-term remote projects and focused freelance engagements.
