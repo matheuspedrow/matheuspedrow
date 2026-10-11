@@ -6,7 +6,6 @@ I build and maintain web applications, APIs and automations for real businesses.
 
 I'm comfortable joining an existing codebase, understanding its architecture, and shipping changes that keep it simple, tested and maintainable.
 
-> 🔒 **A note on my repositories:** most of my work is production software that belongs to my company and its customers, so those repositories are private. I'm happy to walk through architecture, decisions and trade-offs in an interview or a paid trial task.
 
 ---
 
